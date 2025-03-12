@@ -1,6 +1,6 @@
 # nice-luffy-gear-five
 
-![Preview](https://github.com/whoop-t/nice-luffy-gear-five/blob/main/.github/assets/luffygearfive.jpg?raw=true)
+![Preview](https://github.com/whoop-t/nice-luffy-gear-five/blob/main/.github/assets/gearfive.jpg?raw=true)
 
 ## Quick setup
 
